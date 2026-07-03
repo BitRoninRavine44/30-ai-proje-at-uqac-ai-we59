@@ -1,4 +1,4 @@
-# 
+# Turbo 30+ AI Projects at UQAC scripts. Con IA explicable y procesamiento de lenguaje natural — optimizado para el máximo rendimiento.
 
 
 
